@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(#28313b,#485461);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.content p{
+    font-weight: bold;
+    font-size: 180px;
+    color: white;
+    padding-top: 300px;
+    padding-left: 750px;
+    font-family: Alegreya SC;
+}
+.search {
+    padding-top: 300px;
+    padding-left: 750px;
+    display: flex;
+}
+
+.user {
+    color: white;
+    font-size: 70px;
+    padding-left: 20px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+.search-btn {
+    font-size: 50px;
+    background: white;
+    width: 300px;
+    margin-left: 50px;
+    border-radius: 10px;
+    font-family: Alegreya SC;
+}
+ p{
+     color: white;
+     font-size: 100px;
+     font-family: Alegreya SC;
+ }
+ .list{
+     padding-left: 550px;
+     padding-top: 50px;
+ }
+ a{
+     color: yellowgreen;
+ }
