@@ -1,4 +1,4 @@
-const button = document.getElementById('sbtn');
+let button = document.getElementById('sbtn');
 let username = document.getElementById('username').value;
 console.log(username);
 button.addEventListener('click',function(){
