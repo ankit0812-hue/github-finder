@@ -1,5 +1,5 @@
 const button = document.getElementById('sbtn');
-const username = document.getElementById('username').value;
+let username = document.getElementById('username').value;
 console.log(username);
 button.addEventListener('click',function(){
     findrepo(username);
